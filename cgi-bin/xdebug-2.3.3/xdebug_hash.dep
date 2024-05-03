@@ -1,0 +1,4 @@
+xdebug_hash.lo: \
+ /home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3/xdebug_hash.c \
+ /home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3/xdebug_hash.h \
+ /home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3/xdebug_llist.h

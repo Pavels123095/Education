@@ -1,0 +1,42 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-CVPnF61d.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/fonts/fontawesome-webfont.eot": {
+    "file": "assets/fontawesome-webfont-DZZNeuAi.eot",
+    "src": "resources/fonts/fontawesome-webfont.eot"
+  },
+  "resources/fonts/fontawesome-webfont.svg": {
+    "file": "assets/fontawesome-webfont-DINy9hJ8.svg",
+    "src": "resources/fonts/fontawesome-webfont.svg"
+  },
+  "resources/fonts/fontawesome-webfont.ttf": {
+    "file": "assets/fontawesome-webfont-DgQ5z64Z.ttf",
+    "src": "resources/fonts/fontawesome-webfont.ttf"
+  },
+  "resources/fonts/fontawesome-webfont.woff": {
+    "file": "assets/fontawesome-webfont-CSn1GHZU.woff",
+    "src": "resources/fonts/fontawesome-webfont.woff"
+  },
+  "resources/images/camera_skins.png": {
+    "file": "assets/camera_skins-DPPrK7UB.png",
+    "src": "resources/images/camera_skins.png"
+  },
+  "resources/images/playbutton.png": {
+    "file": "assets/playbutton-CQ8G7zEo.png",
+    "src": "resources/images/playbutton.png"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-Cru86Jt6.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app-ELTLnpJX.css",
+    "src": "resources/sass/app.scss",
+    "isEntry": true
+  }
+}

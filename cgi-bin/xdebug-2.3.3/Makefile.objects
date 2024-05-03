@@ -1,0 +1,72 @@
+-include xdebug.dep
+xdebug.lo: /home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3/xdebug.c
+	$(LIBTOOL) --mode=compile $(CC) -I. -I/home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)   -DZEND_COMPILE_DL_EXT=1 -c /home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3/xdebug.c -o xdebug.lo  -MMD -MF xdebug.dep -MT xdebug.lo
+-include xdebug_branch_info.dep
+xdebug_branch_info.lo: /home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3/xdebug_branch_info.c
+	$(LIBTOOL) --mode=compile $(CC) -I. -I/home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)   -DZEND_COMPILE_DL_EXT=1 -c /home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3/xdebug_branch_info.c -o xdebug_branch_info.lo  -MMD -MF xdebug_branch_info.dep -MT xdebug_branch_info.lo
+-include xdebug_code_coverage.dep
+xdebug_code_coverage.lo: /home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3/xdebug_code_coverage.c
+	$(LIBTOOL) --mode=compile $(CC) -I. -I/home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)   -DZEND_COMPILE_DL_EXT=1 -c /home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3/xdebug_code_coverage.c -o xdebug_code_coverage.lo  -MMD -MF xdebug_code_coverage.dep -MT xdebug_code_coverage.lo
+-include xdebug_com.dep
+xdebug_com.lo: /home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3/xdebug_com.c
+	$(LIBTOOL) --mode=compile $(CC) -I. -I/home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)   -DZEND_COMPILE_DL_EXT=1 -c /home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3/xdebug_com.c -o xdebug_com.lo  -MMD -MF xdebug_com.dep -MT xdebug_com.lo
+-include xdebug_compat.dep
+xdebug_compat.lo: /home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3/xdebug_compat.c
+	$(LIBTOOL) --mode=compile $(CC) -I. -I/home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)   -DZEND_COMPILE_DL_EXT=1 -c /home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3/xdebug_compat.c -o xdebug_compat.lo  -MMD -MF xdebug_compat.dep -MT xdebug_compat.lo
+-include xdebug_handler_dbgp.dep
+xdebug_handler_dbgp.lo: /home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3/xdebug_handler_dbgp.c
+	$(LIBTOOL) --mode=compile $(CC) -I. -I/home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)   -DZEND_COMPILE_DL_EXT=1 -c /home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3/xdebug_handler_dbgp.c -o xdebug_handler_dbgp.lo  -MMD -MF xdebug_handler_dbgp.dep -MT xdebug_handler_dbgp.lo
+-include xdebug_handlers.dep
+xdebug_handlers.lo: /home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3/xdebug_handlers.c
+	$(LIBTOOL) --mode=compile $(CC) -I. -I/home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)   -DZEND_COMPILE_DL_EXT=1 -c /home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3/xdebug_handlers.c -o xdebug_handlers.lo  -MMD -MF xdebug_handlers.dep -MT xdebug_handlers.lo
+-include xdebug_llist.dep
+xdebug_llist.lo: /home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3/xdebug_llist.c
+	$(LIBTOOL) --mode=compile $(CC) -I. -I/home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)   -DZEND_COMPILE_DL_EXT=1 -c /home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3/xdebug_llist.c -o xdebug_llist.lo  -MMD -MF xdebug_llist.dep -MT xdebug_llist.lo
+-include xdebug_hash.dep
+xdebug_hash.lo: /home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3/xdebug_hash.c
+	$(LIBTOOL) --mode=compile $(CC) -I. -I/home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)   -DZEND_COMPILE_DL_EXT=1 -c /home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3/xdebug_hash.c -o xdebug_hash.lo  -MMD -MF xdebug_hash.dep -MT xdebug_hash.lo
+-include xdebug_private.dep
+xdebug_private.lo: /home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3/xdebug_private.c
+	$(LIBTOOL) --mode=compile $(CC) -I. -I/home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)   -DZEND_COMPILE_DL_EXT=1 -c /home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3/xdebug_private.c -o xdebug_private.lo  -MMD -MF xdebug_private.dep -MT xdebug_private.lo
+-include xdebug_profiler.dep
+xdebug_profiler.lo: /home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3/xdebug_profiler.c
+	$(LIBTOOL) --mode=compile $(CC) -I. -I/home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)   -DZEND_COMPILE_DL_EXT=1 -c /home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3/xdebug_profiler.c -o xdebug_profiler.lo  -MMD -MF xdebug_profiler.dep -MT xdebug_profiler.lo
+-include xdebug_set.dep
+xdebug_set.lo: /home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3/xdebug_set.c
+	$(LIBTOOL) --mode=compile $(CC) -I. -I/home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)   -DZEND_COMPILE_DL_EXT=1 -c /home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3/xdebug_set.c -o xdebug_set.lo  -MMD -MF xdebug_set.dep -MT xdebug_set.lo
+-include xdebug_stack.dep
+xdebug_stack.lo: /home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3/xdebug_stack.c
+	$(LIBTOOL) --mode=compile $(CC) -I. -I/home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)   -DZEND_COMPILE_DL_EXT=1 -c /home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3/xdebug_stack.c -o xdebug_stack.lo  -MMD -MF xdebug_stack.dep -MT xdebug_stack.lo
+-include xdebug_str.dep
+xdebug_str.lo: /home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3/xdebug_str.c
+	$(LIBTOOL) --mode=compile $(CC) -I. -I/home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)   -DZEND_COMPILE_DL_EXT=1 -c /home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3/xdebug_str.c -o xdebug_str.lo  -MMD -MF xdebug_str.dep -MT xdebug_str.lo
+-include xdebug_superglobals.dep
+xdebug_superglobals.lo: /home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3/xdebug_superglobals.c
+	$(LIBTOOL) --mode=compile $(CC) -I. -I/home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)   -DZEND_COMPILE_DL_EXT=1 -c /home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3/xdebug_superglobals.c -o xdebug_superglobals.lo  -MMD -MF xdebug_superglobals.dep -MT xdebug_superglobals.lo
+-include xdebug_tracing.dep
+xdebug_tracing.lo: /home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3/xdebug_tracing.c
+	$(LIBTOOL) --mode=compile $(CC) -I. -I/home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)   -DZEND_COMPILE_DL_EXT=1 -c /home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3/xdebug_tracing.c -o xdebug_tracing.lo  -MMD -MF xdebug_tracing.dep -MT xdebug_tracing.lo
+-include xdebug_trace_textual.dep
+xdebug_trace_textual.lo: /home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3/xdebug_trace_textual.c
+	$(LIBTOOL) --mode=compile $(CC) -I. -I/home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)   -DZEND_COMPILE_DL_EXT=1 -c /home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3/xdebug_trace_textual.c -o xdebug_trace_textual.lo  -MMD -MF xdebug_trace_textual.dep -MT xdebug_trace_textual.lo
+-include xdebug_trace_computerized.dep
+xdebug_trace_computerized.lo: /home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3/xdebug_trace_computerized.c
+	$(LIBTOOL) --mode=compile $(CC) -I. -I/home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)   -DZEND_COMPILE_DL_EXT=1 -c /home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3/xdebug_trace_computerized.c -o xdebug_trace_computerized.lo  -MMD -MF xdebug_trace_computerized.dep -MT xdebug_trace_computerized.lo
+-include xdebug_trace_html.dep
+xdebug_trace_html.lo: /home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3/xdebug_trace_html.c
+	$(LIBTOOL) --mode=compile $(CC) -I. -I/home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)   -DZEND_COMPILE_DL_EXT=1 -c /home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3/xdebug_trace_html.c -o xdebug_trace_html.lo  -MMD -MF xdebug_trace_html.dep -MT xdebug_trace_html.lo
+-include xdebug_var.dep
+xdebug_var.lo: /home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3/xdebug_var.c
+	$(LIBTOOL) --mode=compile $(CC) -I. -I/home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)   -DZEND_COMPILE_DL_EXT=1 -c /home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3/xdebug_var.c -o xdebug_var.lo  -MMD -MF xdebug_var.dep -MT xdebug_var.lo
+-include xdebug_xml.dep
+xdebug_xml.lo: /home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3/xdebug_xml.c
+	$(LIBTOOL) --mode=compile $(CC) -I. -I/home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)   -DZEND_COMPILE_DL_EXT=1 -c /home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3/xdebug_xml.c -o xdebug_xml.lo  -MMD -MF xdebug_xml.dep -MT xdebug_xml.lo
+-include usefulstuff.dep
+usefulstuff.lo: /home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3/usefulstuff.c
+	$(LIBTOOL) --mode=compile $(CC) -I. -I/home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)   -DZEND_COMPILE_DL_EXT=1 -c /home/p/payusovs95/anton.prizraks.ru/cgi-bin/xdebug-2.3.3/usefulstuff.c -o usefulstuff.lo  -MMD -MF usefulstuff.dep -MT usefulstuff.lo
+$(phplibdir)/xdebug.la: ./xdebug.la
+	$(LIBTOOL) --mode=install cp ./xdebug.la $(phplibdir)
+
+./xdebug.la: $(shared_objects_xdebug) $(XDEBUG_SHARED_DEPENDENCIES)
+	$(LIBTOOL) --mode=link $(CC) -shared $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS) $(LDFLAGS)  -o $@ -export-dynamic -avoid-version -prefer-pic -module -rpath $(phplibdir) $(EXTRA_LDFLAGS) $(shared_objects_xdebug) $(XDEBUG_SHARED_LIBADD)
+
